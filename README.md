@@ -8,6 +8,7 @@
  - Server IDs for servers data(prefixes, settings, vanity url to revert on change)
  - User IDs for whitelisted users
  - Webhooks to send send security action log entires.
+ - Confidential data ( webhooks ) are stored & secured using AES Encryption standards.
 
 ## 2. Who can access the data?
 
