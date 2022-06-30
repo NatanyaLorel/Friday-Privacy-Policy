@@ -33,7 +33,7 @@
 
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
-#### You can reach us by the following things:
+#### You can reach us by the following methods:
 - Join our [Support Server](https://discord.gg/DgqWvb2zd2) on discord
 - Contact me on discord [discord.gg/socials](https://discord.gg/DgqWvb2zd2)
 
