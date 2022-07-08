@@ -36,6 +36,7 @@
 #### You can reach us by the following methods:
 - Join our [Support Server](https://discord.gg/DgqWvb2zd2) on discord
 - Contact me on discord [discord.gg/socials](https://discord.gg/DgqWvb2zd2)
+- Server invite invalid or channels locked ? You can contact me via my email address: risintempmail@gmail.com
 
 ## 5. How can we delete our entire data?
 
